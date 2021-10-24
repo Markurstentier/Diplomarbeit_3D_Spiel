@@ -11,7 +11,6 @@ public class openOnInteract : MonoBehaviour, IInteractable {
 
     public void OnInteract(){
         Destroy(gameObject);
-        //Balls
     }
 
     public void OnEndHover(){
