@@ -21,9 +21,9 @@ public class UIController_Machine : MonoBehaviour {
 
     private void OnMachinePress() {
 
-        Cursor.lockState = CursorLockMode.None;
-        Cursor.visible = true;
-        CursorLockedVar = false;
+        //Cursor.lockState = CursorLockMode.None;
+        //Cursor.visible = true;
+        //CursorLockedVar = false;
         
         MachinePopup.Open();
     }

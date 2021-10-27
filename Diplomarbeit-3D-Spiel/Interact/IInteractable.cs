@@ -1,3 +1,5 @@
+
+
 public interface IInteractable {
 
     float MaxRange { get; }

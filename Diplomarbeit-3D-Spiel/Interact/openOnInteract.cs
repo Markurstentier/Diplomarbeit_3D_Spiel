@@ -10,7 +10,7 @@ public class openOnInteract : MonoBehaviour, IInteractable {
     }
 
     public void OnInteract(){
-        Destroy(gameObject);
+        
     }
 
     public void OnEndHover(){
